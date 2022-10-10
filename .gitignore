@@ -1,0 +1,6 @@
+node_modules
+build
+rest-client.http
+run_node.sh
+*.DS_Store
+.vscode
